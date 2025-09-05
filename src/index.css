@@ -1,0 +1,8 @@
+button {
+    cursor: pointer;
+}
+.active-filter {
+    background-color: #7bf1a8;
+    cursor: default;
+}
+@import "tailwindcss"
